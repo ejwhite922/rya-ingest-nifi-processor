@@ -1,0 +1,17 @@
+This project includes the following open source projects as dependencies.
+
+Apache Software License, version 2.0
+
+* NiFi (https://github.com/apache/nifi/blob/master/nifi-docs/LICENSE)
+* Retrofit (https://github.com/square/retrofit/blob/master/LICENSE.txt)
+* Commons IO (https://github.com/apache/commons-io/blob/master/LICENSE.txt)
+* Commons Lang3 (https://github.com/apache/commons-lang/blob/master/LICENSE.txt)
+
+Eclipse Public License 1.0
+
+* JUnit (http://junit.org/junit4/license.html)
+
+MIT License
+
+* SLF4J (https://www.slf4j.org/license.html)
+
