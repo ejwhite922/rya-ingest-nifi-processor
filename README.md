@@ -1,4 +1,4 @@
-# Apache NiFi Processor for Rya Triples Ingestion
+# Apache NiFi Processor for Ingesting Triples into Rya
 
 [![Build Status](https://travis-ci.org/mtnfog/rya-ingest-nifi-processor.png?branch=master)](https://travis-ci.org/mtnfog/rya-ingest-nifi-processor)
 
