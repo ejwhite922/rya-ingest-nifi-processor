@@ -18,6 +18,10 @@ To use this processor, clone the project, build it, and copy the resulting `nar`
 
 ![Image of NiFi Flow](https://github.com/mtnfog/rya-ingest-nifi-processor/blob/master/images/nifi-flow.png)
 
+The configuration requires setting the Rya API endpoint and the format of the triples that are being ingested.
+
+![Image of NiFi Flow](https://github.com/mtnfog/rya-ingest-nifi-processor/blob/master/images/nifi-configure.png)
+
 ## License
 
 This project is licensed under the Apache Software License, version 2.0.
