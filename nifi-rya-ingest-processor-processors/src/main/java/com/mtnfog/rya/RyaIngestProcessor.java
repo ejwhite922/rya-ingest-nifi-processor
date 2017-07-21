@@ -56,7 +56,7 @@ import retrofit2.Retrofit;
 import com.mtnfog.rya.client.RyaClientService;
 import com.mtnfog.rya.client.StringConverterFactory;
 
-@Tags({ "rya, ingest, tripes" })
+@Tags({ "rya, ingest, triples" })
 @CapabilityDescription("Provides triples ingesting into Rya.")
 @SeeAlso({})
 @ReadsAttributes({ @ReadsAttribute(attribute = "", description = "") })
